@@ -4,5 +4,8 @@
 **Skills:** Create and customized Excel charts to visually represent data using advanced chart design tools without altering the original dataset.
 **Technology:** Excel.
 
+**Quick View:**  
+<img src="Screenshot 2025-06-25 122632.png" width="150" height="100">
+
 **Resources:**  
 https://www.youtube.com/watch?v=gMAHXrty6wI&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=5
